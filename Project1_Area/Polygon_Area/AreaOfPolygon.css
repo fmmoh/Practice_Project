@@ -1,0 +1,23 @@
+body {
+  background-image: url("bg-web.jpg");
+  background-repeat: no-repeat;
+}
+.Area-Calculate {
+  margin: 20px auto;
+  border: 6px solid skyblue;
+  border-radius: 150px;
+  background-color: skyblue;
+  width: 500px;
+  height: 400px;
+  box-shadow: 5px 5px 5px #888888;
+}
+p {
+  text-align: center;
+  font-size: 60px;
+  margin: 30px;
+}
+.area-result {
+  border: 6px solid skyblue;
+  border-radius: 150px;
+  background-color: skyblue;
+}

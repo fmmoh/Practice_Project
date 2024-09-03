@@ -66,7 +66,7 @@ namespace BookForm
             app.UseRouting();
             app.UseStaticFiles(new StaticFileOptions
             {
-                FileProvider = new PhysicalFileProvider(@"C:\Users\missm\Documents\Behsa_Project\Book-Form\BookForm\BookForm\Delete"),
+                FileProvider = new PhysicalFileProvider(@"C:\Users\missm\Documents\BehsaProjects\Behsa_Project\Book-Form\BookForm\BookForm\Delete"),
                 RequestPath = "/staticFiles"
             });
 
